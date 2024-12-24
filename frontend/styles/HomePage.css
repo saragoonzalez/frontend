@@ -1,0 +1,21 @@
+.hero {
+    background-color: #ffe6f0;
+    text-align: center;
+    padding: 50px 20px;
+    color: #333;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.feature {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+}
